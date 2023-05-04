@@ -7,7 +7,7 @@
 
 ## Download
 
-*TBOX-SDK supports all major operating systems, including: Windows, Mac (Intel, M1), and Linux.*
+*tboxsdk supports all major operating systems, including: Windows, Mac (Intel, M1), and Linux.*
 
 
 ### Download from Github Releases
